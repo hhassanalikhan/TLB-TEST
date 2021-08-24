@@ -1,1 +1,1 @@
-Run the tests using : source TLBtestSell.sh > tlbTest.txt
+TLB test, with and without multithreading. Time for executing the same number of operation on different array sizes.
