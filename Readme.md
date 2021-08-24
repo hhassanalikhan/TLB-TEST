@@ -1,1 +1,1 @@
-Run test using : source TLBtestSell.sh > tlbTest.txt
+Run the tests using : source TLBtestSell.sh > tlbTest.txt
