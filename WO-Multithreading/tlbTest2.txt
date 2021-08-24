@@ -1,0 +1,870 @@
+Pagesize: 4B
+	 Memory Accesses: 2000000
+	 Total access time: 0.00509 seconds
+Pagesize: 8B
+	 Memory Accesses: 4000000
+	 Total access time: 0.00556 seconds
+Pagesize: 16B
+	 Memory Accesses: 8000000
+	 Total access time: 0.00985 seconds
+Pagesize: 32B
+	 Memory Accesses: 16000000
+	 Total access time: 0.01806 seconds
+Pagesize: 64B
+	 Memory Accesses: 32000000
+	 Total access time: 0.03491 seconds
+Pagesize: 128B
+	 Memory Accesses: 64000000
+	 Total access time: 0.06880 seconds
+Pagesize: 256B
+	 Memory Accesses: 128000000
+	 Total access time: 0.13649 seconds
+Pagesize: 512B
+	 Memory Accesses: 128000000
+	 Total access time: 0.13654 seconds
+Pagesize: 1KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13688 seconds
+Pagesize: 2KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13752 seconds
+Pagesize: 4KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13966 seconds
+Pagesize: 8KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13832 seconds
+Pagesize: 16KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13883 seconds
+Pagesize: 32KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13664 seconds
+Pagesize: 64KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.19436 seconds
+Pagesize: 128KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.34515 seconds
+Pagesize: 256KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.69105 seconds
+Pagesize: 512KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.63492 seconds
+Pagesize: 1MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.65309 seconds
+Pagesize: 2MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67346 seconds
+Pagesize: 4MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.63256 seconds
+Pagesize: 8MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.62695 seconds
+Pagesize: 16MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.63171 seconds
+Pagesize: 32MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.64795 seconds
+Pagesize: 64MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67452 seconds
+Pagesize: 128MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.63545 seconds
+Pagesize: 256MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67424 seconds
+Pagesize: 512MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.63039 seconds
+Pagesize: 1GB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67806 seconds
+Pagesize: 4B
+	 Memory Accesses: 2000000
+	 Total access time: 0.00264 seconds
+Pagesize: 8B
+	 Memory Accesses: 4000000
+	 Total access time: 0.00566 seconds
+Pagesize: 16B
+	 Memory Accesses: 8000000
+	 Total access time: 0.00981 seconds
+Pagesize: 32B
+	 Memory Accesses: 16000000
+	 Total access time: 0.01807 seconds
+Pagesize: 64B
+	 Memory Accesses: 32000000
+	 Total access time: 0.03472 seconds
+Pagesize: 128B
+	 Memory Accesses: 64000000
+	 Total access time: 0.06994 seconds
+Pagesize: 256B
+	 Memory Accesses: 128000000
+	 Total access time: 0.13764 seconds
+Pagesize: 512B
+	 Memory Accesses: 128000000
+	 Total access time: 0.13724 seconds
+Pagesize: 1KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13913 seconds
+Pagesize: 2KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13890 seconds
+Pagesize: 4KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13779 seconds
+Pagesize: 8KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13652 seconds
+Pagesize: 16KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13641 seconds
+Pagesize: 32KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13661 seconds
+Pagesize: 64KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.19725 seconds
+Pagesize: 128KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.32613 seconds
+Pagesize: 256KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.68397 seconds
+Pagesize: 512KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66737 seconds
+Pagesize: 1MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66734 seconds
+Pagesize: 2MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66212 seconds
+Pagesize: 4MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66777 seconds
+Pagesize: 8MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66408 seconds
+Pagesize: 16MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67056 seconds
+Pagesize: 32MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66910 seconds
+Pagesize: 64MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66886 seconds
+Pagesize: 128MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66298 seconds
+Pagesize: 256MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66675 seconds
+Pagesize: 512MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.62285 seconds
+Pagesize: 1GB
+	 Memory Accesses: 128000000
+	 Total access time: 0.64649 seconds
+Pagesize: 4B
+	 Memory Accesses: 2000000
+	 Total access time: 0.00271 seconds
+Pagesize: 8B
+	 Memory Accesses: 4000000
+	 Total access time: 0.00560 seconds
+Pagesize: 16B
+	 Memory Accesses: 8000000
+	 Total access time: 0.00985 seconds
+Pagesize: 32B
+	 Memory Accesses: 16000000
+	 Total access time: 0.01802 seconds
+Pagesize: 64B
+	 Memory Accesses: 32000000
+	 Total access time: 0.03549 seconds
+Pagesize: 128B
+	 Memory Accesses: 64000000
+	 Total access time: 0.07088 seconds
+Pagesize: 256B
+	 Memory Accesses: 128000000
+	 Total access time: 0.13801 seconds
+Pagesize: 512B
+	 Memory Accesses: 128000000
+	 Total access time: 0.13791 seconds
+Pagesize: 1KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13907 seconds
+Pagesize: 2KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13660 seconds
+Pagesize: 4KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13648 seconds
+Pagesize: 8KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13633 seconds
+Pagesize: 16KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13652 seconds
+Pagesize: 32KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13691 seconds
+Pagesize: 64KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.19561 seconds
+Pagesize: 128KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.32418 seconds
+Pagesize: 256KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.69647 seconds
+Pagesize: 512KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.63886 seconds
+Pagesize: 1MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.68729 seconds
+Pagesize: 2MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.69124 seconds
+Pagesize: 4MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.65291 seconds
+Pagesize: 8MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.68671 seconds
+Pagesize: 16MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.63810 seconds
+Pagesize: 32MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.63606 seconds
+Pagesize: 64MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.64150 seconds
+Pagesize: 128MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.64059 seconds
+Pagesize: 256MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.64207 seconds
+Pagesize: 512MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.64586 seconds
+Pagesize: 1GB
+	 Memory Accesses: 128000000
+	 Total access time: 0.65542 seconds
+Pagesize: 4B
+	 Memory Accesses: 2000000
+	 Total access time: 0.00275 seconds
+Pagesize: 8B
+	 Memory Accesses: 4000000
+	 Total access time: 0.00569 seconds
+Pagesize: 16B
+	 Memory Accesses: 8000000
+	 Total access time: 0.00988 seconds
+Pagesize: 32B
+	 Memory Accesses: 16000000
+	 Total access time: 0.01810 seconds
+Pagesize: 64B
+	 Memory Accesses: 32000000
+	 Total access time: 0.03549 seconds
+Pagesize: 128B
+	 Memory Accesses: 64000000
+	 Total access time: 0.07064 seconds
+Pagesize: 256B
+	 Memory Accesses: 128000000
+	 Total access time: 0.13688 seconds
+Pagesize: 512B
+	 Memory Accesses: 128000000
+	 Total access time: 0.13967 seconds
+Pagesize: 1KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13709 seconds
+Pagesize: 2KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13650 seconds
+Pagesize: 4KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13684 seconds
+Pagesize: 8KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13736 seconds
+Pagesize: 16KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.15605 seconds
+Pagesize: 32KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13636 seconds
+Pagesize: 64KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.19887 seconds
+Pagesize: 128KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.35784 seconds
+Pagesize: 256KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67641 seconds
+Pagesize: 512KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66307 seconds
+Pagesize: 1MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.61637 seconds
+Pagesize: 2MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.62805 seconds
+Pagesize: 4MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66436 seconds
+Pagesize: 8MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66234 seconds
+Pagesize: 16MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.62628 seconds
+Pagesize: 32MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66658 seconds
+Pagesize: 64MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66068 seconds
+Pagesize: 128MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.64503 seconds
+Pagesize: 256MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.65607 seconds
+Pagesize: 512MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66651 seconds
+Pagesize: 1GB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66654 seconds
+Pagesize: 4B
+	 Memory Accesses: 2000000
+	 Total access time: 0.00264 seconds
+Pagesize: 8B
+	 Memory Accesses: 4000000
+	 Total access time: 0.00563 seconds
+Pagesize: 16B
+	 Memory Accesses: 8000000
+	 Total access time: 0.00982 seconds
+Pagesize: 32B
+	 Memory Accesses: 16000000
+	 Total access time: 0.01805 seconds
+Pagesize: 64B
+	 Memory Accesses: 32000000
+	 Total access time: 0.03533 seconds
+Pagesize: 128B
+	 Memory Accesses: 64000000
+	 Total access time: 0.06990 seconds
+Pagesize: 256B
+	 Memory Accesses: 128000000
+	 Total access time: 0.13838 seconds
+Pagesize: 512B
+	 Memory Accesses: 128000000
+	 Total access time: 0.13871 seconds
+Pagesize: 1KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13645 seconds
+Pagesize: 2KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13846 seconds
+Pagesize: 4KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13994 seconds
+Pagesize: 8KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13993 seconds
+Pagesize: 16KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.14010 seconds
+Pagesize: 32KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13859 seconds
+Pagesize: 64KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.23218 seconds
+Pagesize: 128KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.38382 seconds
+Pagesize: 256KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.69657 seconds
+Pagesize: 512KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.68102 seconds
+Pagesize: 1MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.68344 seconds
+Pagesize: 2MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.68013 seconds
+Pagesize: 4MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67920 seconds
+Pagesize: 8MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.68194 seconds
+Pagesize: 16MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.68262 seconds
+Pagesize: 32MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.68031 seconds
+Pagesize: 64MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.64620 seconds
+Pagesize: 128MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.68706 seconds
+Pagesize: 256MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.64730 seconds
+Pagesize: 512MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67394 seconds
+Pagesize: 1GB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66914 seconds
+Pagesize: 4B
+	 Memory Accesses: 2000000
+	 Total access time: 0.00275 seconds
+Pagesize: 8B
+	 Memory Accesses: 4000000
+	 Total access time: 0.00572 seconds
+Pagesize: 16B
+	 Memory Accesses: 8000000
+	 Total access time: 0.01025 seconds
+Pagesize: 32B
+	 Memory Accesses: 16000000
+	 Total access time: 0.01879 seconds
+Pagesize: 64B
+	 Memory Accesses: 32000000
+	 Total access time: 0.03591 seconds
+Pagesize: 128B
+	 Memory Accesses: 64000000
+	 Total access time: 0.07034 seconds
+Pagesize: 256B
+	 Memory Accesses: 128000000
+	 Total access time: 0.13673 seconds
+Pagesize: 512B
+	 Memory Accesses: 128000000
+	 Total access time: 0.13777 seconds
+Pagesize: 1KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13670 seconds
+Pagesize: 2KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13645 seconds
+Pagesize: 4KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13654 seconds
+Pagesize: 8KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13647 seconds
+Pagesize: 16KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13994 seconds
+Pagesize: 32KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13872 seconds
+Pagesize: 64KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.19854 seconds
+Pagesize: 128KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.41470 seconds
+Pagesize: 256KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66976 seconds
+Pagesize: 512KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.65464 seconds
+Pagesize: 1MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.65390 seconds
+Pagesize: 2MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66768 seconds
+Pagesize: 4MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66409 seconds
+Pagesize: 8MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.64864 seconds
+Pagesize: 16MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66421 seconds
+Pagesize: 32MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.65832 seconds
+Pagesize: 64MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66283 seconds
+Pagesize: 128MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66841 seconds
+Pagesize: 256MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.65969 seconds
+Pagesize: 512MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66296 seconds
+Pagesize: 1GB
+	 Memory Accesses: 128000000
+	 Total access time: 0.65924 seconds
+Pagesize: 4B
+	 Memory Accesses: 2000000
+	 Total access time: 0.00272 seconds
+Pagesize: 8B
+	 Memory Accesses: 4000000
+	 Total access time: 0.00568 seconds
+Pagesize: 16B
+	 Memory Accesses: 8000000
+	 Total access time: 0.00985 seconds
+Pagesize: 32B
+	 Memory Accesses: 16000000
+	 Total access time: 0.01805 seconds
+Pagesize: 64B
+	 Memory Accesses: 32000000
+	 Total access time: 0.03541 seconds
+Pagesize: 128B
+	 Memory Accesses: 64000000
+	 Total access time: 0.07008 seconds
+Pagesize: 256B
+	 Memory Accesses: 128000000
+	 Total access time: 0.13978 seconds
+Pagesize: 512B
+	 Memory Accesses: 128000000
+	 Total access time: 0.13742 seconds
+Pagesize: 1KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13687 seconds
+Pagesize: 2KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13741 seconds
+Pagesize: 4KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13737 seconds
+Pagesize: 8KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13657 seconds
+Pagesize: 16KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13649 seconds
+Pagesize: 32KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13694 seconds
+Pagesize: 64KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.19737 seconds
+Pagesize: 128KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.33800 seconds
+Pagesize: 256KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.69276 seconds
+Pagesize: 512KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.63984 seconds
+Pagesize: 1MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66639 seconds
+Pagesize: 2MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66950 seconds
+Pagesize: 4MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66956 seconds
+Pagesize: 8MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67693 seconds
+Pagesize: 16MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67303 seconds
+Pagesize: 32MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67260 seconds
+Pagesize: 64MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67983 seconds
+Pagesize: 128MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.65199 seconds
+Pagesize: 256MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.64278 seconds
+Pagesize: 512MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67337 seconds
+Pagesize: 1GB
+	 Memory Accesses: 128000000
+	 Total access time: 0.63959 seconds
+Pagesize: 4B
+	 Memory Accesses: 2000000
+	 Total access time: 0.00264 seconds
+Pagesize: 8B
+	 Memory Accesses: 4000000
+	 Total access time: 0.00562 seconds
+Pagesize: 16B
+	 Memory Accesses: 8000000
+	 Total access time: 0.00981 seconds
+Pagesize: 32B
+	 Memory Accesses: 16000000
+	 Total access time: 0.01802 seconds
+Pagesize: 64B
+	 Memory Accesses: 32000000
+	 Total access time: 0.03531 seconds
+Pagesize: 128B
+	 Memory Accesses: 64000000
+	 Total access time: 0.06983 seconds
+Pagesize: 256B
+	 Memory Accesses: 128000000
+	 Total access time: 0.13907 seconds
+Pagesize: 512B
+	 Memory Accesses: 128000000
+	 Total access time: 0.13764 seconds
+Pagesize: 1KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13661 seconds
+Pagesize: 2KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13664 seconds
+Pagesize: 4KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13638 seconds
+Pagesize: 8KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13660 seconds
+Pagesize: 16KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13655 seconds
+Pagesize: 32KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13674 seconds
+Pagesize: 64KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.20031 seconds
+Pagesize: 128KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.32202 seconds
+Pagesize: 256KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.69691 seconds
+Pagesize: 512KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67126 seconds
+Pagesize: 1MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67735 seconds
+Pagesize: 2MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67123 seconds
+Pagesize: 4MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67460 seconds
+Pagesize: 8MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.68185 seconds
+Pagesize: 16MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67726 seconds
+Pagesize: 32MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67543 seconds
+Pagesize: 64MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67512 seconds
+Pagesize: 128MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67453 seconds
+Pagesize: 256MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67293 seconds
+Pagesize: 512MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.65685 seconds
+Pagesize: 1GB
+	 Memory Accesses: 128000000
+	 Total access time: 0.75019 seconds
+Pagesize: 4B
+	 Memory Accesses: 2000000
+	 Total access time: 0.00264 seconds
+Pagesize: 8B
+	 Memory Accesses: 4000000
+	 Total access time: 0.00563 seconds
+Pagesize: 16B
+	 Memory Accesses: 8000000
+	 Total access time: 0.00982 seconds
+Pagesize: 32B
+	 Memory Accesses: 16000000
+	 Total access time: 0.01805 seconds
+Pagesize: 64B
+	 Memory Accesses: 32000000
+	 Total access time: 0.03560 seconds
+Pagesize: 128B
+	 Memory Accesses: 64000000
+	 Total access time: 0.06959 seconds
+Pagesize: 256B
+	 Memory Accesses: 128000000
+	 Total access time: 0.13657 seconds
+Pagesize: 512B
+	 Memory Accesses: 128000000
+	 Total access time: 0.13776 seconds
+Pagesize: 1KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13827 seconds
+Pagesize: 2KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13900 seconds
+Pagesize: 4KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13633 seconds
+Pagesize: 8KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13868 seconds
+Pagesize: 16KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13681 seconds
+Pagesize: 32KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13641 seconds
+Pagesize: 64KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.20318 seconds
+Pagesize: 128KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.36714 seconds
+Pagesize: 256KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.70152 seconds
+Pagesize: 512KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.69267 seconds
+Pagesize: 1MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66277 seconds
+Pagesize: 2MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.65677 seconds
+Pagesize: 4MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67713 seconds
+Pagesize: 8MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66943 seconds
+Pagesize: 16MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67279 seconds
+Pagesize: 32MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.68415 seconds
+Pagesize: 64MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66429 seconds
+Pagesize: 128MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66136 seconds
+Pagesize: 256MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.62303 seconds
+Pagesize: 512MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66942 seconds
+Pagesize: 1GB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67980 seconds
+Pagesize: 4B
+	 Memory Accesses: 2000000
+	 Total access time: 0.00271 seconds
+Pagesize: 8B
+	 Memory Accesses: 4000000
+	 Total access time: 0.00568 seconds
+Pagesize: 16B
+	 Memory Accesses: 8000000
+	 Total access time: 0.00984 seconds
+Pagesize: 32B
+	 Memory Accesses: 16000000
+	 Total access time: 0.01808 seconds
+Pagesize: 64B
+	 Memory Accesses: 32000000
+	 Total access time: 0.03656 seconds
+Pagesize: 128B
+	 Memory Accesses: 64000000
+	 Total access time: 0.07061 seconds
+Pagesize: 256B
+	 Memory Accesses: 128000000
+	 Total access time: 0.13672 seconds
+Pagesize: 512B
+	 Memory Accesses: 128000000
+	 Total access time: 0.13814 seconds
+Pagesize: 1KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13653 seconds
+Pagesize: 2KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.14001 seconds
+Pagesize: 4KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.14219 seconds
+Pagesize: 8KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13996 seconds
+Pagesize: 16KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.14106 seconds
+Pagesize: 32KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.13808 seconds
+Pagesize: 64KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.19841 seconds
+Pagesize: 128KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.32041 seconds
+Pagesize: 256KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.68463 seconds
+Pagesize: 512KB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66844 seconds
+Pagesize: 1MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.65900 seconds
+Pagesize: 2MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66555 seconds
+Pagesize: 4MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.67815 seconds
+Pagesize: 8MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66680 seconds
+Pagesize: 16MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66037 seconds
+Pagesize: 32MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66520 seconds
+Pagesize: 64MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66216 seconds
+Pagesize: 128MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66197 seconds
+Pagesize: 256MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66192 seconds
+Pagesize: 512MB
+	 Memory Accesses: 128000000
+	 Total access time: 0.63845 seconds
+Pagesize: 1GB
+	 Memory Accesses: 128000000
+	 Total access time: 0.66552 seconds
