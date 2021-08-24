@@ -1,0 +1,4 @@
+32KB 0.14 seconds
+64KB 0.2 seconds
+128KB 0.34 seconds
+256KB 0.69 seconds
